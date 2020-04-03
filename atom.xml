@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://moyu2018.github.io/"/>
+  <link href="https://moyublog.ml/"/>
   <updated>2020-04-03T10:36:28.439Z</updated>
-  <id>https://moyu2018.github.io/</id>
+  <id>https://moyublog.ml/</id>
   
   <author>
     <name>莫宇</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://moyu2018.github.io/2020/04/03/hello-world/"/>
-    <id>https://moyu2018.github.io/2020/04/03/hello-world/</id>
+    <link href="https://moyublog.ml/2020/04/03/hello-world/"/>
+    <id>https://moyublog.ml/2020/04/03/hello-world/</id>
     <published>2020-04-03T10:36:28.439Z</published>
     <updated>2020-04-03T10:36:28.439Z</updated>
     
@@ -37,8 +37,8 @@
   
   <entry>
     <title>置顶文章</title>
-    <link href="https://moyu2018.github.io/2020/04/03/%E7%BD%AE%E9%A1%B6%E6%96%87%E7%AB%A0/"/>
-    <id>https://moyu2018.github.io/2020/04/03/%E7%BD%AE%E9%A1%B6%E6%96%87%E7%AB%A0/</id>
+    <link href="https://moyublog.ml/2020/04/03/%E7%BD%AE%E9%A1%B6%E6%96%87%E7%AB%A0/"/>
+    <id>https://moyublog.ml/2020/04/03/%E7%BD%AE%E9%A1%B6%E6%96%87%E7%AB%A0/</id>
     <published>2020-04-03T09:30:29.000Z</published>
     <updated>2020-04-03T11:55:53.972Z</updated>
     
@@ -53,10 +53,10 @@
     </summary>
     
     
-      <category term="美文" scheme="https://moyu2018.github.io/categories/%E7%BE%8E%E6%96%87/"/>
+      <category term="美文" scheme="https://moyublog.ml/categories/%E7%BE%8E%E6%96%87/"/>
     
     
-      <category term="分享" scheme="https://moyu2018.github.io/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="分享" scheme="https://moyublog.ml/tags/%E5%88%86%E4%BA%AB/"/>
     
   </entry>
   
